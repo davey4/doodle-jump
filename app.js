@@ -102,7 +102,7 @@ document.addEventListener("DOMContentLoaded", () => {
           jump();
         }
       });
-    }, 30);
+    }, 10);
   }
 
   function gameOver() {
